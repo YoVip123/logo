@@ -1,0 +1,268 @@
+[
+  {
+    "id": "0-9-zeetvhd",
+    "name": "Zee TV HD",
+    "group": "Entertainment",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-tvhd_0",
+    "name": "&TV HD",
+    "group": "Entertainment",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-zeecinemahd",
+    "name": "Zee Cinema HD",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/3My3DSNO.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-tvpictureshd",
+    "name": "&Pictures HD",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-pictures",
+    "name": "&Pictures",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gWbWHfFZ.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/master.m3u8"
+  },
+  {
+    "id": "0-9-zeecinema",
+    "name": "Zee Cinema",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Oftxxc6j.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeeanmol",
+    "name": "Zee Anmol",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeeanmolcinema",
+    "name": "Zee Anmol Cinema",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8"
+  },
+  {
+    "id": "0-9-bigganga",
+    "name": "Zee Anmol Cinema 2",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AN9WR6cw.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8"
+  },
+  {
+    "id": "0-9-zeeclassic",
+    "name": "Zee Bollywood",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeeaction",
+    "name": "Zee Action",
+    "group": "Movies",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8"
+  },
+  {
+    "id": "0-9-channel_2105335046",
+    "name": "&flix HD",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Flix-HD/index-connected/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-aajtak",
+    "name": "Aaj Tak",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jr7GDkll.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Aaj Tak HD",
+    "group": "News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj Tak HD.png",
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+  },
+  {
+    "id": "0-9-zeenews",
+    "name": "Zee News",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rkgcdPXO.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8"
+  },
+  {
+    "id": "0-9-indiatoday",
+    "name": "India Today",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5qvJ3Y2O.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-255",
+    "name": "Good News Today",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/W4iGczSN.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-9z5543514",
+    "name": "&Prive HD",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/74c6VTYA.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Prive-HD/index-connected/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-zeebusiness",
+    "name": "Zee Business",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gO83ivZf.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeehindustan",
+    "name": "Zee Bharat",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IvKQqtFg.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeebiharjharkhand",
+    "name": "Zee Bihar Jharkhand",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jQXo2Pqx.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8"
+  },
+  {
+    "id": "0-9-24ghantatv",
+    "name": "Zee 24 Ghanta",
+    "group": "Bengali",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FFmfh6gD.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeekalinganews",
+    "name": "Zee Delhi NCR Haryana",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oVm1oThb.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeerajasthannews",
+    "name": "Zee Rajasthan News",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wVgnhIcB.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeemadhyapradeshchat",
+    "name": "Zee Madhya Pradesh Chhattisgarh",
+    "group": "News",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fyEqyMyP.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8"
+  },
+  {
+    "id": "0-9-bigmagic_1786965389",
+    "name": "Big Magic",
+    "group": "Entertainment",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rsVzcAmI.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/master.m3u8"
+  },
+  {
+    "id": "0-9-zing",
+    "name": "Zing",
+    "group": "Entertainment",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeecafehd",
+    "name": "Zee Café HD",
+    "group": "Entertainment",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/24JwWZTu.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-cafe-HD/index-connected/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-zeebangla",
+    "name": "Zee Bangla HD",
+    "group": "Bengali",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lsPYfrGD.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-zeebanglacinema",
+    "name": "Zee Bangla Cinema",
+    "group": "Bengali",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/nOidVHSe.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeetv",
+    "name": "Zee TV",
+    "group": "Entertainment",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iDwj8bhd.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8"
+  },
+  {
+    "id": "0-9-zeesalaam",
+    "name": "Zee Salaam",
+    "group": "Entertainment",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8"
+  },
+  {
+    "id": "0-9-channel_265145625",
+    "name": "Zee News Uttar Pradesh Uttrakhand",
+    "group": "News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Uttar Pradesh Uttarakhand.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8"
+  },
+  {
+    "id": "0-9-176",
+    "name": "Zee Classic",
+    "group": "Movies",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/b4K3bMOT.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Classic-SD/master/master.m3u8"
+  },
+  {
+    "id": "0-9-209",
+    "name": "&xplorHD",
+    "group": "Movies",
+    "logo": "https://whythishome.github.io/epg/logos/in/xplor-hd.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/And-Xplor-HD/index-connected/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-216",
+    "name": "Zee Biskope",
+    "group": "Entertainment",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Biskope-SD/master/master.m3u8"
+  },
+  {
+    "id": "0-9-348",
+    "name": "Zee Zest HD",
+    "group": "Entertainment",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jQq6gcQB.png",
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected/index-connected.m3u8"
+  },
+  {
+    "id": "0-9-9z5383484",
+    "name": "Zee Bangla",
+    "group": "Bengali",
+    "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cYGGQKYS.png",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8"
+  }
+]
