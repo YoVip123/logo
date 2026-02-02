@@ -74,7 +74,7 @@
     "name": "Zee Action",
     "group": "Movies",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Action-SD/master/master.m3u8"
   },
   {
     "id": "0-9-channel_2105335046",
