@@ -46,14 +46,14 @@
     "name": "Zee Anmol",
     "group": "Movies",
     "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-SD/master/master.m3u8"
   },
   {
     "id": "0-9-zeeanmolcinema",
     "name": "Zee Anmol Cinema",
     "group": "Movies",
     "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Anmol-Cinema-SD/master/master.m3u8"
   },
   {
     "id": "0-9-bigganga",
@@ -67,7 +67,7 @@
     "name": "Zee Bollywood",
     "group": "Movies",
     "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8"
+    "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/master.m3u8"
   },
   {
     "id": "0-9-zeeaction",
